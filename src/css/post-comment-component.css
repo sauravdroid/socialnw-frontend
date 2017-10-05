@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
+.comment-container{
+    width:90%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.comment-text{
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color:#474747;
+}

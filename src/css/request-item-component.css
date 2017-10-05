@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+
+.username{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    color:#45A9FA;
+    font-size: 14px;
+}
+
+.request-item-main-container{
+    max-width: 500px;
+    min-width: 380px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    margin-bottom: 30px;
+    border-radius: 2px;
+    justify-content: flex-start;
+    border:1px solid #f9f9f9;
+    padding: 12px 10px;
+    transition: all 0.3s ease-in-out;
+}
+.request-item-main-container:hover{
+    box-shadow: 0 8px 18px rgba(0,0,0,0.2);
+}
+.detail-container{
+    margin-left: 10px;
+}
+.social-metrics-container{
+    margin-top: 3px;
+    justify-content: flex-start;
+}
+.social-metric-item{
+    align-items: center;
+    margin-right: 20px;
+}
+.metric-count{
+    font-family: 'Open Sans',sans-serif;
+    color:#716F6F;
+    font-size: 15px;
+    font-weight: 600;
+}
+.metric-name{
+    font-family: 'Open Sans',sans-serif;
+    color:#716F6F;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 4px;
+}

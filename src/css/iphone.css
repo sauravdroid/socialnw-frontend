@@ -1,0 +1,9 @@
+.iphone{
+    transition: all 0.4s ease-in-out 0.2s;
+}
+.iphone-appear{
+    transform: scale(1,1);
+}
+.iphone-disappear{
+    transform: scale(0,0);
+}

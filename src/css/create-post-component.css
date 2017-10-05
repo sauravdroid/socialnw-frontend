@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Lato:400,700|Playfair+Display:700');
+.create-post-page-content{
+    margin-top: 100px;
+    padding: 0 20px;
+}
+.create-post-header-container{
+    position: relative;
+    align-items: center;
+}
+.create-post-btn-container{
+    position: absolute;
+    right: 10px;
+}
+.create-post-header-text{
+    font-family: 'Playfair Display', serif;
+    color:#45A7F9;
+}
+.create-post-title{
+    font-family: 'Lato',sans-serif;
+    color:#757564;
+    font-weight: 700;
+    font-size: 30px;
+}
+.create-post-subheader{
+    font-family: 'Lato',sans-serif;
+    color:#757564;
+    font-weight: 400;
+    font-size: 24px;
+}
+.create-post-input{
+    border: none;
+    outline: none;
+    margin-top: 20px;
+}
+.create-post-content{
+    font-family: 'Bellefair',serif;
+    font-size: 22px;
+    color:#757564;
+    resize: vertical;
+}

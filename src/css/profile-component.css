@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
+
+.profile-page-container{
+    width: 100%;
+    align-items: center;
+}
+.posts-container{
+   align-items: center;
+    position: relative;
+    top:100px;
+    width: 70%;
+}
+.fab-container{
+    display: inline-block;
+    position: fixed;
+    z-index: 30;
+    bottom: 40px;
+    right:40px;
+}
+.navigation-container{
+    position: fixed;
+    top:110px;
+    left:40px;
+}
+.nav-link{
+    z-index: 30;
+    color:#9A9A9A;
+    font-family: 'Lato',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 10px;
+    /* transition: all 0.2s ease-in-out; */
+}
+.nav-link-div{
+    margin-bottom: 10px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.nav-link-active{
+    color:#4A90E2;
+}
+.nav-sidebar{
+    width:2px;
+    height:16px;
+    background-color: #9A9A9A;
+    /* transition: all 0.4s ease-in-out; */
+}
+.nav-sidebar-active{
+    background-color:#4A90E2;
+}
+.nav-sidebar-inactive{
+    background-color: transparent;
+}
+.navigation-container-header{
+    font-family: 'Lato',sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:#808080;
+    margin-bottom: 20px;
+}
+.error-h1{
+    font-size: 16px;
+    color:#6F6F6F;
+    font-family: 'Lato',sans-serif;
+}

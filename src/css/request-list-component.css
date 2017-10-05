@@ -1,0 +1,11 @@
+.request-list-main-container{
+    width: 100%;
+    align-items: center;
+    margin-top: 100px;
+    transition: all 0.2s ease;
+}
+.error-h1{
+    font-size: 16px;
+    color:#6F6F6F;
+    font-family: 'Lato',sans-serif;
+}

@@ -1,0 +1,17 @@
+.macbook-header{
+    margin: 0;
+    padding: 0;
+    color:#E3F461;
+    position: absolute;
+    top:33%;
+    left:35%;
+    font-size: 45px;
+    font-family: 'Pacifico', cursive;
+    transition: color 0.4s ease-in-out;
+}
+.appear{
+    color:#E3F461;
+}
+.disappear{
+    color:transparent;
+}

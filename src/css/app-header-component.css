@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico');
+.app-header-container{
+    top:0;
+    position: fixed;
+    width:100%;
+    height:65px;
+    background:linear-gradient(to bottom, #4DCBFF, #43A1F8);
+    align-items: center;
+    z-index: 30;
+}
+.app-header-text{
+    font-family: 'Pacifico',sans-serif;
+    font-size: 26px;
+    color:#fff;
+    font-weight: 400;
+    margin-left: 25px;
+}
+.header-right-part{
+    position: relative;
+    right:0;
+    align-items: center;
+    height:100%;
+    margin-right: 20px;
+}
+.header-right-part .badge{
+    margin-right: 10px;
+}

@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Pacifico');
+h1,h2,h3,h4,h5{
+    padding: 0;
+    margin: 0;
+}
+.main-container{
+    display: inline-flex;
+    flex-direction: row;
+    position: relative;
+    transform: scale(0.9,0.9);
+    transition: all 0.4s ease-in-out;
+}
+.small{
+    transform: translate(50px,0) scale(1.5,1.5);
+}
+.macbook{
+    display: flex;
+    flex-direction: column;
+}
+.iphone{
+    position: absolute;
+    right:0;
+    bottom: -15px;
+}
+.login-container{
+    position: absolute;
+    z-index:20;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    top:20px;
+    transform: translate(230px,0);
+}
+.register-container{
+    position: absolute;
+    z-index:20;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    top:0px;
+    transform: translate(230px,0);
+}
+.login-header{
+    color:#E3F461;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.login-enter {
+    opacity: 0.01;
+}
+
+.login-enter.login-enter-active {
+  opacity: 1;
+  transition: all 500ms ease-in-out;
+  
+}
+
+.login-leave {
+  opacity: 1;
+}
+
+.login-leave.login-leave-active {
+  opacity: 0.01;
+  transition: all 400ms ease-in-out;
+  
+}
+
+.inside-login-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cancel-btn{
+    margin-left: -10px;
+}

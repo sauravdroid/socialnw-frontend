@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+.search-component-container{
+    width: 100%;
+    align-items: center;
+    margin-top: 100px; 
+}
+.search-input{
+    border: 1px solid #84C6FF;
+    padding: 10px;
+    position: relative;
+    left:-90px;
+    outline: none;
+    min-width: 200px;
+    border-radius:20px;
+    font-size: 14px; 
+}
+.search-result-container{
+    position: relative;
+    top:30px;
+}
+.error-h1{
+    font-size: 16px;
+    color:#6F6F6F;
+    font-family: 'Open Sans',sans-serif;
+}

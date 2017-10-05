@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="691px" height="437px" viewBox="0 0 691 437" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>macbook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-18.4%" y="-11.6%" width="136.6%" height="152.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="19" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.200000003 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M625,350.625 C625,350.625 604.362477,359.105114 552.7726,359.105114 C552.7726,359.105114 380,360.625 312.5,360.625 C245,360.625 72.2273998,359.105114 72.2273998,359.105114 C20.6375233,359.105114 0,350.625 0,350.625 L625,350.625 Z" id="path-2"></path>
+        <filter x="-6.8%" y="-415.0%" width="113.6%" height="950.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="12.5 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-7.3%" y="-445.0%" width="114.6%" height="1010.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="95.3611898%" id="linearGradient-5">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M74.5,0 L549.5,0 C559.282631,0 567.5,8.22189761 567.5,18 L567.5,335 C567.5,344.778102 567.439985,353 557.5,353 L67.5,353 C57.4340171,353 56.5,344.778102 56.5,335 L56.5,18 C56.5,8.22189761 64.7173694,0 74.5,0 L74.5,0 Z" id="path-6"></path>
+        <rect id="path-7" x="75.5" y="26" width="473" height="295"></rect>
+        <rect id="path-9" x="75.5" y="26" width="473" height="295"></rect>
+        <linearGradient x1="50%" y1="99.740912%" x2="50%" y2="0%" id="linearGradient-11">
+            <stop stop-color="#D0D0D0" offset="0%"></stop>
+            <stop stop-color="#E7E7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="59.0212107%" x2="0%" y2="59.0212107%" id="linearGradient-12">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="49.648972%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-13" x="0.5" y="347" width="625" height="2"></rect>
+        <filter x="-0.1%" y="-25.0%" width="100.2%" height="150.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.300000012 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="2.0567602%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#999999" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="0%" id="linearGradient-16">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="20.7927981%" x2="50%" y2="100%" id="linearGradient-17">
+            <stop stop-color="#FFFFFF" stop-opacity="-0.0636196476" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M312.5,352 C289.781553,352 258.4375,351.444445 252.5,350.333333 L252.5,347 L372.5,347 L372.5,350.333333 C366.5625,351.444445 335.218447,352 312.5,352 Z" id="path-18"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="minimalMacbook" transform="translate(-47.000000, -112.000000)">
+            <g id="macbook" filter="url(#filter-1)" transform="translate(80.000000, 120.000000)">
+                <g id="shadow" opacity="0.1" filter="url(#filter-3)" fill-opacity="1" fill="black">
+                    <use filter="url(#filter-4)" xlink:href="#path-2"></use>
+                </g>
+                <g id="top">
+                    <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <use fill-opacity="0.1" fill="url(#linearGradient-5)" fill-rule="evenodd" style="mix-blend-mode: multiply;" xlink:href="#path-6"></use>
+                    <path stroke-opacity="0.25" stroke="#FFFFFF" stroke-width="3.75" d="M74.5,1.875 C65.75453,1.875 58.375,9.25580458 58.375,18 L58.375,335 C58.375,346.946642 60.2766396,351.125 67.5,351.125 L557.5,351.125 C564.366892,351.125 565.625,347.845684 565.625,335 L565.625,18 C565.625,9.25580458 558.24547,1.875 549.5,1.875 L74.5,1.875 Z"></path>
+                </g>
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="screen" fill="#2B2B2B" xlink:href="#path-7"></use>
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <rect stroke="#000000" stroke-width="1.25" x="76.125" y="26.625" width="471.75" height="293.75"></rect>
+                <path d="M625.5,349 C625.5,349 604.862477,359.176136 553.5,358.6 C553.2726,359.176136 380.5,361 313.5,361 C245.5,361 72.7273998,359.176136 72.5,358.6 C21.1375233,359.176136 0.5,349 0.5,349 L625.5,349 Z" id="bottom" fill="url(#linearGradient-11)"></path>
+                <g id="bottomfront">
+                    <use fill="#F2F2F2" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <use fill-opacity="0.02" fill="url(#linearGradient-12)" fill-rule="evenodd" style="mix-blend-mode: multiply;" xlink:href="#path-13"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                </g>
+                <g id="shadows">
+                    <use fill="#FAFAFA" xlink:href="#path-18"></use>
+                    <use fill-opacity="0.03" fill="url(#linearGradient-15)" style="mix-blend-mode: multiply;" xlink:href="#path-18"></use>
+                    <use fill-opacity="0.04" fill="url(#linearGradient-16)" style="mix-blend-mode: multiply;" xlink:href="#path-18"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-17)" style="mix-blend-mode: soft-light;" xlink:href="#path-18"></use>
+                </g>
+                <text id="Social-Bug" font-family="Pacifico-Regular, Pacifico" font-size="56" font-style="italic" font-weight="normal" fill="#E3F461">
+                    <tspan x="185" y="193">Social Bug</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Lato:300,400|Playfair+Display:400,700');
+.viewpost-display-container{
+    width: 100%;
+    height: 100%;
+}
+.viewpost-container{
+    padding-top: 2%;
+    width: 70%;
+    position: relative;
+    margin: 0 auto;
+    max-width: 850px;
+    margin-top: 80px;
+}
+.viewpost-header-text{
+    color:#363E45;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 35px;
+}
+.viewpost-subheader{
+    color:#363E45;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 22px;
+    margin-top: 50px;
+}
+.viewpost-content{
+    color:#5D5D5D;
+    font-family: 'Bellefair', serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    margin-top: 40px;
+    width: 85%;
+}
+.viewpost-author-container{
+    width: 90%;
+    margin-top: 30px;
+}
+.social-icons-container{
+    position: relative;
+    right:0;
+    margin-top: 20px;
+    align-items: flex-start;
+}
+.social-icon{
+    transform: scale(0.6,0.6);
+}
+.social-counter-text{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color:#4C4C4C;
+}
+.icon-counter{
+    width: 40px;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.viewpost-create-comment{
+    width: 90%;
+    height:140px;
+    border:1px solid #F2F2F2;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    margin:30px 0; 
+    margin-top: 70px;
+    border-radius: 4px;
+    overflow: hidden;
+    padding: 5px;
+    padding-top:10px;
+    padding-left: 10px; 
+    position: relative;
+}
+.viewpost-create-comment-lower-container{
+    width:100%;
+    border-top: 1px solid #DFD9D9; 
+    justify-content: flex-end;
+    padding-top: 5px;
+}
+.comment-textarea::placeholder{
+    font-family: 'Bellefair', serif;
+    font-size: 26px;
+    color:#4C4C4C;
+}
+.comment-textarea{
+    font-family: 'Bellefair', serif;
+    font-size: 20px;
+    color:#4C4C4C;
+    width: 100%;
+    height:70%;
+    resize: none;
+    border: none;
+    outline: none;
+}
+
+.viewpost-page-container{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #e91;
+}

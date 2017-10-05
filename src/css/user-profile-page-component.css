@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+.user-page-content{
+    width:70%;
+    position: relative;
+    margin: 0 auto;
+    max-width: 850px;
+    margin-top: 100px;
+}
+.all-post-container{
+    margin-top: 60px;
+}
+.all-post-header{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color:#3E3E3E;
+    margin-left: 30px;
+}
+.fab-container{
+    display: inline-block;
+    position: fixed;
+    z-index: 30;
+    bottom: 40px;
+    right:40px;
+}

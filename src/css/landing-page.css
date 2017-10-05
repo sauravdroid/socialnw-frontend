@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Lato:300');
+.horizontal-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+.landing-container{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    height: 100%;
+    background: linear-gradient(to bottom, #5A65DB, #6FA8EF);
+}
+.jumbotron-container{
+    position: relative;
+    z-index:3;
+    /*margin-top: 12%; */
+}
+.upper-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 150px; 
+    align-items: center;
+}
+.header-text-landing{
+    color:#fff;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+
+.btn-container{
+    display: flex;
+    flex-direction: row;
+    max-width: 500px;
+    justify-content: space-around;
+    margin-left: 50px;
+    transition: all 0.4s ease-in-out;
+    position: relative;
+    left:4%;
+}
+.btn{
+    background-color: #323313;
+}
+.quote-container{
+    position: relative;
+    top:50px;
+    padding: 20px
+}
+.quote-text{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 26px;
+    color:#fff;
+    z-index:1;
+}
