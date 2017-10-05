@@ -1,6 +1,6 @@
 ### What is this repository for? ###
 
-This repository serves as a frontend for the SocialNetwork Challenge.
+This repository serves as a frontend for the SocialNetwork.
 
 ### How do I get set up? ###
  
